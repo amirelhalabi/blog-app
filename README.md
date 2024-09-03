@@ -55,9 +55,9 @@ This project is a full-stack blog application consisting of both frontend and ba
     npm install
 3. **Set up environment variables**
 
-    Create a `.env` file in the blog-app-backend directory with the following content:
+    Create a `.env` file IF NOT EXISTO=ING in the blog-app-backend directory (blog-app-backend/.env) with the following content to access the online database:
     
-    MONGODB_URI=mongodb://localhost:27017/blog_database
+    MONGODB_URI=mongodb+srv://amirhalabi:Amir.2001%24@cluster0.z8s0m.mongodb.net/myDatabaseName?retryWrites=true&w=majority&appName=Cluster0
     PORT=5000
 4. **Run the application**
 
