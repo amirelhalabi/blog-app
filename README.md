@@ -81,17 +81,8 @@ This project is a full-stack blog application consisting of both frontend and ba
 
 Tests are located in the tests folder under blog-app-backend. You can run them using Jest:
 
-cd blog-app-backend
-npm test
-
-#### Frontend Tests
-
-(If applicable, include instructions for running frontend tests.)
-
-## Contributing
-
-Feel free to submit issues or pull requests to improve the application. Please make sure to follow the coding standards and test your changes before submitting.
-
+cd blog-app-backend 
+npm test   
 ## Contact
 
 For any questions or feedback, please contact [amir619halabi@gmail.com](mailto:amir619halabi@gmail.com).
