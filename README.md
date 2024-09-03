@@ -44,37 +44,38 @@ This project is a full-stack blog application consisting of both frontend and ba
 
 2. **Install dependencies**
 
-For the frontend:
-
-cd blog-app-frontend
-npm install
-### For the backend:
-
-cd ../blog-app-backend
-npm install
+    For the frontend:
+    ```
+    cd blog-app-frontend
+    npm install
+    ```
+    For the backend:
+    ```
+    cd ../blog-app-backend
+    npm install
 3. **Set up environment variables**
 
-Create a `.env` file in the blog-app-backend directory with the following content:
-
-MONGODB_URI=mongodb://localhost:27017/blog_database
-PORT=5000
+    Create a `.env` file in the blog-app-backend directory with the following content:
+    
+    MONGODB_URI=mongodb://localhost:27017/blog_database
+    PORT=5000
 4. **Run the application**
 
-Start the backend server:
-
-cd blog-app-backend
-npm start
-Start the frontend application:
-
-cd ../blog-app-frontend
-npm start
+    Start the backend server:
+    
+    cd blog-app-backend
+    npm start
+    Start the frontend application:
+    
+    cd ../blog-app-frontend
+    npm start
 5. **Run tests**
 
-To run tests for the backend, use:
-
-cd blog-app-backend
-npm test
-### Testing
+    To run tests for the backend, use:
+    
+    cd blog-app-backend
+    npm test
+## Testing
 
 #### Backend Tests
 
