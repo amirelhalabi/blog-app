@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a full-stack blog application consisting of both frontend and backend components. It allows users to manage blog posts with features for creating, updating, and deleting posts. The application uses a React frontend and a Node.js backend with MongoDB for data storage.
+This project is a full-stack blog application consisting of both frontend and backend components. It allows users to manage blog posts with features for creating, updating, and deleting posts. The application uses a React frontend and a Node.js v16 and Express.js backend with MongoDB for data storage.
 
 ## Project Structure
 
